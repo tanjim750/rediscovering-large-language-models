@@ -56,7 +56,7 @@ The ultimate goal is to think like an AI engineer and researcher rather than sim
 
 # Learning Philosophy
 
-![Learning Philosophy](learning_philosophy.png)
+![Learning Philosophy](assets/learning_philosophy.png)
 
 Every topic in this project follows the same learning philosophy.
 
@@ -208,7 +208,7 @@ The objective is to develop original intuition while remaining grounded in evide
 
 # Roadmap
 
-![Roadmap](roadmap.png)
+![Roadmap](assets/roadmap.png)
 
 The complete journey consists of the following phases:
 
@@ -235,7 +235,7 @@ guide/roadmap.md
 
 # Repository Structure
 
-![Repository Structure](repo_structure.png)
+![Repository Structure](assets/repo_structure.png)
 
 Project folders are organized for learning, building, experimenting, and researching.
 

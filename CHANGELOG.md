@@ -6,12 +6,14 @@ Every meaningful change, including new chapters, implementations, experiments, a
 
 Maintaining a clear changelog helps contributors understand the project's progress and provides a transparent history of how the repository has evolved.
 
-## [0.2.0] - 2026-07-03
-
-- Added existing project images to guide documentation.
-- Updated guide pages with visual references for roadmap, learning philosophy, repository structure, and project overview.
-
 ## [0.1.0] - 2026-07-03
 
-- Created the initial repository scaffold.
-- Added the dual-license model for code and educational content.
+### Added
+
+- Initial repository structure
+- Complete learning roadmap
+- Guide landing page
+- Learning philosophy
+- Project documentation
+- Repository organization
+- Dual-license organization

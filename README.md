@@ -225,11 +225,7 @@ The complete journey consists of the following phases:
 11. Modern LLM Systems
 12. Build
 
-The detailed roadmap can be found in:
-
-```
-guide/roadmap.md
-```
+The detailed roadmap can be found in [guide/roadmap.md](guide/roadmap.md).
 
 ---
 
@@ -239,14 +235,14 @@ guide/roadmap.md
 
 Project folders are organized for learning, building, experimenting, and researching.
 
-- `guide/` — Project documentation, roadmap, glossary, learning philosophy, and prerequisites.
-- `notes/` — Personal learning notes and chapter summaries.
-- `book/` — Polished educational content.
-- `implementations/` — Code implementations built from scratch.
-- `experiments/` — Experiments, comparisons, and observations.
-- `research/` — Hypotheses, paper reviews, ideas, and future directions.
-- `diagrams/` — Architecture diagrams, illustrations, animations, and mind maps.
-- `resources/` — Books, papers, courses, datasets, and external references.
+- [`guide/`](guide/index.md) — Project documentation, roadmap, glossary, learning philosophy, and prerequisites.
+- [`notes/`](notes/) — Personal learning notes and chapter summaries.
+- [`book/`](book/) — Polished educational content.
+- [`implementations/`](implementations/) — Code implementations built from scratch.
+- [`experiments/`](experiments/) — Experiments, comparisons, and observations.
+- [`research/`](research/) — Hypotheses, paper reviews, ideas, and future directions.
+- [`diagrams/`](diagrams/) — Architecture diagrams, illustrations, animations, and mind maps.
+- [`resources/`](resources/) — Books, papers, courses, datasets, and external references.
 ---
 
 # Project Goals
@@ -293,7 +289,7 @@ Contributions are welcome.
 
 Whether you improve explanations, fix mistakes, add implementations, create diagrams, propose experiments, or review research papers, every contribution helps make this project a better learning resource.
 
-Please read **CONTRIBUTING.md** before opening an issue or pull request.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
 
 ---
 
@@ -301,10 +297,10 @@ Please read **CONTRIBUTING.md** before opening an issue or pull request.
 
 This project uses a dual-license model.
 
-- **Code** (`implementations/`, `experiments/`, scripts, and software): **MIT License**
-- **Educational Content** (`book/`, `guide/`, `notes/`, diagrams, and documentation): **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+- **Code** (`implementations/`, `experiments/`, scripts, and software): [MIT License](LICENSE-CODE)
+- **Educational Content** (`book/`, `guide/`, `notes/`, diagrams, and documentation): [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](LICENSE-CONTENT)
 
-Please refer to the `LICENSE` file for complete licensing information.
+Please refer to the [LICENSE](LICENSE) file for complete licensing information.
 
 ---
 

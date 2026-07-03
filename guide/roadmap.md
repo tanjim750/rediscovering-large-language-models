@@ -2,6 +2,8 @@
 
 The journey is organized into twelve phases. Each phase starts from a guiding question or goal, then breaks the subject into concrete topics to study, implement, experiment with, and reflect on.
 
+![Roadmap](../assets/roadmap.png)
+
 ## Phase 1 - Computer Fundamentals
 
 **Priority:** High

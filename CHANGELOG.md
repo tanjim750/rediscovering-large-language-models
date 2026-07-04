@@ -6,6 +6,17 @@ Every meaningful change, including new chapters, implementations, experiments, a
 
 Maintaining a clear changelog helps contributors understand the project's progress and provides a transparent history of how the repository has evolved.
 
+## [0.2.0] - 2026-07-04
+
+### Added
+
+- Information Foundations as the first roadmap phase
+
+### Improved
+
+- Roadmap phase numbering
+- Roadmap topic numbering
+
 ## [0.1.0] - 2026-07-03
 
 ### Added

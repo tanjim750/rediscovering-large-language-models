@@ -1,6 +1,7 @@
 # Rediscovering Large Language Models
 
 > **Don't just learn Large Language Models—rediscover them.**
+![Roadmap](assets/all.png)
 
 This project is a first-principles journey to understand Large Language Models (LLMs), not by memorizing architectures, APIs, or frameworks, but by rediscovering the ideas that led to their creation.
 
